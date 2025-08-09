@@ -1,0 +1,26 @@
+{
+  "name": "socketio-cloud-server",
+  "version": "1.0.0",
+  "description": "Socket.IO 雲端控制服務器",
+  "main": "socketio-cloud-server.js",
+  "scripts": {
+    "start": "node socketio-cloud-server.js",
+    "dev": "node socketio-cloud-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "node-media-server": "^2.6.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "socketio",
+    "rtmp",
+    "cloud",
+    "server",
+    "gateway",
+    "streaming"
+  ]
+}

@@ -1,0 +1,7 @@
+node_modules
+.git
+.vscode
+.deployment
+*.log
+.env
+README.md
